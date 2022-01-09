@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "My Study Note"
 title_separator          : "|"
-subtitle                 : "복습 내용 정리"
-name                     : "JHSEOK"
-description              : "Today I Learn"
+subtitle                 : ""
+name                     : "JINHYUK"
+description              : "ML engineer 지망생입니다."
 url                      : "https://seokjin0404.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "JHSEOK"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Today I Learn"
+  name             : "JINHYUK"
+  avatar           : "/assets/luffy3.jpg"
+  bio              : "ML engineer 지망생입니다."
   location         : "South Korea, Seoul"
-  email            :
+  email            : "seokjin0404@yonsei.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -293,5 +293,6 @@ defaults:
       share: true
       related: true
       show_date: true
+      sidebar_main: true
 
 date_format: "%Y-%m-%d"
