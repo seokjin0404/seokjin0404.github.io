@@ -49,7 +49,7 @@
              <ul>
                  {% for category in site.categories %}
                      {% if category[0] == "cs231n" %}
-                         <li><a href="/categories/cs231n" class="">cs231n 강의 스터디 ({{category[1].size}})</a></li>
+                         <li><a href="/categories/cs231n" class="">cs231n 스터디 ({{category[1].size}})</a></li>
                      {% endif %}
                  {% endfor %}
              </ul>
