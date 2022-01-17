@@ -46,7 +46,7 @@ last_modified_at: 2022-01-17
 
   * 기하적인 특징을 이해해서 목적에 따라 적절하게 이용
 
-    참고링크 : https://ratsgo.github.io/machine%20learning/2017/05/22/RLR/
+    참고링크 : [https://ratsgo.github.io/machine%20learning/2017/05/22/RLR/](https://ratsgo.github.io/machine%20learning/2017/05/22/RLR/)
 
 * 두 벡터 사이의 거리 및 각도
 
@@ -67,7 +67,7 @@ last_modified_at: 2022-01-17
 
   * 선형 변환의 연산자
 
-    참고영상 : https://www.youtube.com/watch?v=kYB8IZa5AuE
+    참고영상 : [https://www.youtube.com/watch?v=kYB8IZa5AuE](https://www.youtube.com/watch?v=kYB8IZa5AuE)
 
     행렬의 열벡터가 변환된 행렬의 기저 벡터가 되는데, 선형변환을 직관적으로 이해하는데 도움을 주는 영상
 
@@ -82,7 +82,7 @@ last_modified_at: 2022-01-17
 
     * 모든 경우에서 가능한 것은 아니고, 행과 열의 숫자가 같고, determinant가 0인 경우에 가능
 
-      참고영상: https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7
+      참고영상: [https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7]( https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7)
 
     * Moore-Penrose 역행렬
       * 역행렬을 계산할 수 없을 때 사용
