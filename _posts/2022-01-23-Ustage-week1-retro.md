@@ -5,8 +5,6 @@ categories:
   - Ustage
 tags:
   - [BoostCamp, Ustage]
-
-published : false
  
 date: 2022-01-23
 last_modified_at: 2022-01-23
@@ -20,7 +18,7 @@ last_modified_at: 2022-01-23
 
  
 
-* [Day 1](https://seokjin0404.github.io/ustage/Ustage-week1-day1/)
+* [Day1](https://seokjin0404.github.io/ustage/Ustage-week1-day1/)
 
 - [x] (Python 1-1강) 
 - [x] (Python 1-2강)
@@ -28,28 +26,28 @@ last_modified_at: 2022-01-23
 - [x] (AI Math 1강)
 - [x] (AI Math 2강)
 
-* [Day 2](https://seokjin0404.github.io/ustage/Ustage-week1-day2/)
+* [Day2](https://seokjin0404.github.io/ustage/Ustage-week1-day2/)
 
 - [x] (Python 2-1강) 
 - [x] (Python 2-2강)
 - [x] (AI Math 3강)
 - [x] (AI Math 4강)
 
-* [Day 3](https://seokjin0404.github.io/ustage/Ustage-week1-day3/)
+* [Day3](https://seokjin0404.github.io/ustage/Ustage-week1-day3/)
 
 - [x] (Python 2-3강) 
 - [x] (Python 2-4강)
 - [x] (AI Math 5강)
 - [x] (AI Math 6강)
 
-* [Day 4](https://seokjin0404.github.io/ustage/Ustage-week1-day4/)
+* [Day4](https://seokjin0404.github.io/ustage/Ustage-week1-day4/)
 
 - [x] (Python 3-1강) 
 - [x] (Python 3-2강)
 - [x] (AI Math 7강)
 - [x] (AI Math 8강)
 
-* [Day 5](https://seokjin0404.github.io/ustage/Ustage-week1-day5/)
+* [Day5](https://seokjin0404.github.io/ustage/Ustage-week1-day5/)
 
 - [x] (Python 4-1강) 
 - [x] (Python 4-2강)
