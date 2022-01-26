@@ -20,7 +20,7 @@ title                    : "My Study Note"
 title_separator          : "|"
 subtitle                 : ""
 name                     : "JINHYUK"
-description              : "ML engineer 지망생입니다."
+description              : ""
 url                      : "https://seokjin0404.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -209,7 +209,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
-      line_numbers: true
+      line_numbers: false
 
 
 # Sass/SCSS
