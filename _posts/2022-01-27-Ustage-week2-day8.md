@@ -1,5 +1,5 @@
 ---
-title:  "[Week 2] Day7"
+title:  "[Week 2] Day8"
 
 categories:
   - Ustage
@@ -7,7 +7,7 @@ tags:
   - [BoostCamp, Ustage]
  
 date: 2022-01-26
-last_modified_at: 2022-01-26
+last_modified_at: 2022-01-27
 ---
 
 # 오늘 학습한 내용
@@ -29,8 +29,7 @@ last_modified_at: 2022-01-26
   * ``__init__`` : 데이터나 디렉토리를 초기화한다.
   * ``__len__`` : 데이터의 길이를 정해준다.
   * ``__getitem__`` : index를 주어졌을 때 값을 반환한다. dataloader에서 호출된다.  
-
-___
+* Custom dataset과 dataloader의 구조를 아는 것이 중요하다.
 
 
 
@@ -39,6 +38,8 @@ ___
 ## 2. dataloader의 parameter
 
 * sampler와 random shuffle
+
+ sampler와 random shuffle의 차이가 궁금했는데 sampler가 더 폭넓게 사용 가능한 것 같다. 특정 인덱스만 사용할 수 있고,  랜덤으로 인덱스를 뽑을 수 있다. 불균형한 데이터를 다룰 때 사용한다.
 
 [example sampler](https://www.scottcondron.com/jupyter/visualisation/audio/2020/12/02/dataloaders-samplers-collate.html#Samplers)
 
