@@ -7,8 +7,8 @@ categories:
 tags:
   - [BoostCamp, Ustage]
  
-date: 2022-01-27
-last_modified_at: 2022-01-27
+date: 2022-01-28
+last_modified_at: 2022-01-28
 
 ​---
 ---
