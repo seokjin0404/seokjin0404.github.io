@@ -16,11 +16,11 @@ last_modified_at: 2022-01-28
 
 - [x] (Pytorch 6강) 
 - [x] (Pythorch 7강)
-- [x] 과제 복습
+- [x] 과제 복습  
 
 ---
 
-</br>
+
 
 # (Pytorch 6강)
 
@@ -28,7 +28,7 @@ last_modified_at: 2022-01-28
 
 * model 내부 layer와 parameter를 표시한다.
 * optimizer의 parameter 도 표시할 수 있다.
-* python OrderDict 객체이다.
+* python OrderDict 객체이다.  
 
 
 
@@ -40,21 +40,21 @@ last_modified_at: 2022-01-28
 
 ​	model.state_dict() 를 사용하는 것이 더 일반적이다.
 
-* f : 저장경로이다. parameter를 저장할 때 확장자로 .pt를 사용한다.
+* f : 저장경로이다. parameter를 저장할 때 확장자로 .pt를 사용한다.  
 
 
 
 **torch.load(f)**
 
 * 경로에 저장된 모델을 불러올 수 있다.
-* ``new_model = torch.load(path)`` 
+* ``new_model = torch.load(path)``   
 
 
 
 **torch.load_state_dict(f)**
 
 * 경로에 저장된 parameter를 불러올 수 있다.
-* ``new_model.load_state_dict(path)`` : new_model은 path에 parameter를 저장한 모델과 같은 형태여야 한다.
+* ``new_model.load_state_dict(path)`` : new_model은 path에 parameter를 저장한 모델과 같은 형태여야 한다.  
 
 
 
@@ -62,7 +62,7 @@ last_modified_at: 2022-01-28
 
 * torch.save() 에서 obj 인자로 epoch, model.state_dict(), optimizer.state_dict() 등을 담은 dictionary를 저장한다.
 * checkpoint = torch.load(path) 의 형식으로 불러온다.
-* 학습의 중간과정을 저장할 수 있는데 earlystopping에 사용할 수 있다.
+* 학습의 중간과정을 저장할 수 있는데 earlystopping에 사용할 수 있다.  
 
 
 
@@ -76,7 +76,7 @@ last_modified_at: 2022-01-28
 * parameter로 ``pretrained=True`` 를 넣어줘야 재대로 학습된다.
 * 일반적으로 vgg 넷을 사용해서 image classification을 할 때, 내가 분류하고자 하는 class의 갯수에 따라 마지막 단에 ``nn.Linear()`` 를 포함시킨다. 일반적으로 transfer learning에서 기존모델을 수정하는 것은 지양된다.
 * frozen : ``model.parameters()`` 로 parmeter를 불러와 parameter를 학습 불가능하게 만든다. ``requires_grad = False``
-* 그리고 추가한 layer를 학습 가능한 parameter로 만들어 준다.
+* 그리고 추가한 layer를 학습 가능한 parameter로 만들어 준다.  
 
 
 

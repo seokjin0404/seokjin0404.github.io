@@ -14,7 +14,7 @@ last_modified_at: 2022-01-27
 
 - [x] (Pytorch 5강) 
 - [x] (Pythorch 6강)
-- [x] (Custom Dataset 및 Custom DataLoader)
+- [x] (Custom Dataset 및 Custom DataLoader)  
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-title:  "[Week 2] Day9"
+title:  "[Week 2] Day10"
 
 categories:
   - Ustage
 tags:
   - [BoostCamp, Ustage]
  
-date: 2022-01-28
-last_modified_at: 2022-01-28
+date: 2022-02-03
+last_modified_at: 2022-02-03
 ---
 
 # 오늘 학습한 내용
@@ -18,7 +18,7 @@ last_modified_at: 2022-01-28
 
 ___
 
-</br>
+<br/>
 
 # Pytorch 8강 Multi-GPU 학습
 
@@ -41,7 +41,7 @@ ___
 * ``torch.utils.data.DataLoader()`` 로 다음의 parameter를 사용한다.
 * ``shuffle = False``, ```pin_memory = True```, ```num_workers``` : 보통 GPU의 4배를 사용한다.
 
-</br>
+<br/>
 
 ---
 
