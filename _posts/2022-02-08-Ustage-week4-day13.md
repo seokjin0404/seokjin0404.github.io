@@ -10,6 +10,8 @@ date: 2022-02-08
 last_modified_at: 2022-02-08
 ---
 
+
+
 ## 오늘 학습한 내용
 
 - [x] Activation functions
