@@ -12,6 +12,8 @@ last_modified_at: 2022-02-09
 
 
 
+
+
 ## 오늘 학습한 내용
 
 - [x] Sequential model 발전
