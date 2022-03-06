@@ -8,6 +8,7 @@ tags:
  
 date: 2022-01-23
 last_modified_at: 2022-01-23
+published: false
 ---
 
 # Pytorch 1일차

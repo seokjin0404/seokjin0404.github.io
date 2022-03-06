@@ -8,6 +8,7 @@ tags:
  
 date: 2022-02-15
 last_modified_at: 2022-02-15
+published: false
 ---
 
 ## 리눅스 기초 명령어 정리
